@@ -9,6 +9,7 @@ Un blog increíble para el curso de Git y Github de Platzi.
 - El verdadero amor por las buenas prácticas.
 - Trucos muy locos del profesor.
 - Las personalidades múltiples de Freddy.
+- Creado por el increíble Nicolás
 
 <<<<<<< HEAD
 Y como un amable recordatorio **Este readme.me es un chiste**. Diseñado para el ejemplo. Si llegas hasta aca NO TE LO TOMES EN SERIO y mejor ve **a ver el curso.**
