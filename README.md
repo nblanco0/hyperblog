@@ -11,6 +11,7 @@ Un blog increíble para el curso de Git y Github de Platzi.
 - Las personalidades múltiples de Freddy.
 - Creado por el increíble Nicolás.
 - Incluye ejemplos en Windows, Linux y Mac.
+- Disponible para todas las edades.
 
 <<<<<<< HEAD
 Y como un amable recordatorio **Este readme.me es un chiste**. Diseñado para el ejemplo. Si llegas hasta aca NO TE LO TOMES EN SERIO y mejor ve **a ver el curso.**
